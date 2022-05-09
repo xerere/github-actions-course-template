@@ -1,6 +1,6 @@
 name: Team approval workflow
 
-on: [pull_request_review]
+on: pull_request_review
 
 jobs:
   labelWhenApproved:
