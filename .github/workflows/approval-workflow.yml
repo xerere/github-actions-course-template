@@ -4,7 +4,7 @@ on: [pull_request_review]
 
 jobs:
   labelWhenApproved:
-    name: Label when approved
+    name: Label when approved chaged by jg
     runs-on: ubuntu-latest
     steps:
     - name: Label when approved
